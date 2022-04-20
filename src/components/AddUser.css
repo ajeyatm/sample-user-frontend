@@ -1,0 +1,14 @@
+.user-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.user-form > input {
+  width: 300px;
+  height: 40px;
+}
+
+.user-form > button {
+  width: 200px;
+  height: 40px;
+}
